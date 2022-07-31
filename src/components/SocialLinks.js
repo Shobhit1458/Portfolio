@@ -44,7 +44,7 @@ const SocialLinks = () => {
             ),
             href: "http;//",
             style: 'rounded-br-md',
-            // download: true,ss
+            // download: true,
         },
     ]
 
